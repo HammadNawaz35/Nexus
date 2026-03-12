@@ -8,7 +8,7 @@
 
 ## 🌐 Live Preview
 
-Built & deployed on [Lovable](https://lovable.dev).
+ [Live Link](https://hammadnawaz35.github.io/Nexus/).
 
 ---
 
@@ -145,9 +145,9 @@ src/
 
 ### Local Development
 
-```bash
+```
 # 1. Clone the repository
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/HammadNawaz35/Nexus.git>
 
 # 2. Navigate to project directory
 cd <YOUR_PROJECT_NAME>
@@ -155,17 +155,7 @@ cd <YOUR_PROJECT_NAME>
 # 3. Install dependencies
 npm install
 
-# 4. Create a .env file in the project root with the following variables:
-```
-
-```env
-VITE_SUPABASE_URL="https://cdmkxkclmrmvytyfedcm.supabase.co"
-VITE_SUPABASE_PUBLISHABLE_KEY="your-supabase-anon-key"
-VITE_SUPABASE_PROJECT_ID="cdmkxkclmrmvytyfedcm"
-```
-
-```bash
-# 5. Start the development server
+# 4. Start the development server
 npm run dev
 ```
 
@@ -212,7 +202,7 @@ Nexus uses a custom design token system defined in `src/index.css`:
 
 ## 📄 License
 
-This project is private. All rights reserved.
+This project is Open Source. 
 
 ---
 
